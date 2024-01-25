@@ -42,4 +42,8 @@ public class Customer {
     public void setGender(Gender gender) {
         this.gender = gender;
     }
+
+    public Gender getGender() {
+        return gender;
+    }
 }
